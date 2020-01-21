@@ -1,1 +1,3 @@
-# primitivist_encryption
+# primitivist encryption
+
+simple implementation of the rsa algorithm
